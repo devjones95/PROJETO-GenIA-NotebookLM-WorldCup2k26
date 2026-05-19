@@ -1,1 +1,3 @@
-"# PROJETO-GenIA-NotebookLM-WorldCup2k26" 
+### Explorando o NotebookLM para aplicações diversas ###
+
+
