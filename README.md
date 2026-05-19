@@ -50,8 +50,7 @@ Entre muitas outras coisas, e vale muito a pena ressaltar que a ferramenta passa
 <img width="1337" height="617" alt="image" src="https://github.com/user-attachments/assets/1bb75c1e-a43b-42e8-bfe7-9f21f0defc28" />
 <br>
 <br>
-Enfim, gostaria que vissem um pequeno exemplo que fiz, a fim de curiosidade e de fato poder ver o NotebookLM em ação, que fiz um resumo em vídeo, de aproximadamente 3 minutos, sobre o assunto da Copa do Mundo de 2026, que eu publiquei no meu linkedIn ([www.linkedin.com/in/joão-pedro-assis](https://www.linkedin.com/feed/update/urn:li:activity:7462449631692607488/))
-
+Enfim, gostaria que vissem um pequeno exemplo que fiz, a fim de curiosidade e de fato poder ver o NotebookLM em ação, que fiz um resumo em vídeo, de aproximadamente 3 minutos, sobre o assunto da Copa do Mundo de 2026, que eu publiquei no meu linkedIn https://www.linkedin.com/feed/update/urn:li:activity:7462449631692607488/
 
 
 
