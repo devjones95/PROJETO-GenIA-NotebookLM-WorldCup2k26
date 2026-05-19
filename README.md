@@ -1,3 +1,4 @@
-### Explorando o NotebookLM para aplicações diversas ###
+### **Explorando o NotebookLM para aplicações diversas** ###
+
 
 
